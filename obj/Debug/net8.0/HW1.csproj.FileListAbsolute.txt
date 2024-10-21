@@ -1,0 +1,4 @@
+C:\Users\fmacc\source\repos\HW1\HW1\obj\Debug\net8.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fmacc\source\repos\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfoInputs.cache
+C:\Users\fmacc\source\repos\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfo.cs
+C:\Users\fmacc\source\repos\HW1\HW1\obj\Debug\net8.0\HW1.csproj.CoreCompileInputs.cache
