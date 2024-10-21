@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fmacc\\source\\repos\\HW1\\Homework\\HW1.csproj",
+      "projectUniqueName": "C:\\Users\\fmacc\\OneDrive\\Documents\\Uni\\Statistics\\HW2\\HW1\\HW1.csproj",
       "projectName": "HW1",
-      "projectPath": "C:\\Users\\fmacc\\source\\repos\\HW1\\Homework\\HW1.csproj",
+      "projectPath": "C:\\Users\\fmacc\\OneDrive\\Documents\\Uni\\Statistics\\HW2\\HW1\\HW1.csproj",
       "packagesPath": "C:\\Users\\fmacc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fmacc\\source\\repos\\HW1\\Homework\\obj\\",
+      "outputPath": "C:\\Users\\fmacc\\OneDrive\\Documents\\Uni\\Statistics\\HW2\\HW1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmacc\\AppData\\Roaming\\NuGet\\NuGet.Config",
